@@ -1,6 +1,6 @@
 
 const clientId = '549ed9c843b04fa793266c2963395bb4';
-const redirectUri = 'http://localhost:3000/';
+const redirectUri = 'https://master--jolly-faun-7b3627.netlify.app/callback';
 let accessToken;
 
 const Spotify = {
